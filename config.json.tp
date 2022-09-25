@@ -25,7 +25,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "162fe71c-454f-4f71-ae97-4107309af8f5",
+                        "id": "a8b282bdd450408b842582890cfd7355",
                         "level": 0
                     }
                 ],
@@ -43,7 +43,7 @@
         //     "settings": {
         //         "clients": [
         //             {
-        //                 "id": "$UUID",
+        //                 "id": "a8b282bdd450408b842582890cfd7355",
         //                 "level": 0
         //             }
         //         ],
